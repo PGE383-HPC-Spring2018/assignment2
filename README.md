@@ -1,6 +1,8 @@
 # Assignment 2
 
-The aim of this assignment is to continue familiarization with git and basic Unix commands.
+The aim of this assignment is to continue familiarization with git and basic Unix commands. I've recorded a YouTube video that once again shows the process of accepting and cloning the assignment as well as describes the expectations for completion:
+
+https://youtu.be/w3h9P3TnOi0
 
 ## Instructions
 
